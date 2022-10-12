@@ -1,5 +1,3 @@
-// Generate User teerapat
-// Generate Date 23/6/2022 20:17:26
 using System;
 using System;
 using System.Collections.Generic;
